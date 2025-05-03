@@ -27,7 +27,7 @@ This is a **Telegram bot** designed for a **vape shop**. The bot allows users to
 ### 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Leko32/VapeShopBot.git
+git clone https://github.com/Leko32/ShopBot.git
 ```
 
 ### 2. **Install dependencies:**
