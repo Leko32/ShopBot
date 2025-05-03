@@ -1,7 +1,3 @@
-Конечно, Брат, вот крутой шаблон для твоего README файла! 🚀
-
----
-
 # Vape Shop Telegram Bot
 
 This is a **Telegram bot** designed for a **vape shop**. The bot allows users to browse and choose from various vape products, including e-liquids, vapes, and disposable vapes. It also features an **admin panel** with elevated privileges for managing the product assortment, as well as enabling or disabling buttons for specific products.
@@ -103,5 +99,3 @@ Feel free to fork this repo and submit pull requests for improvements or new fea
 ### 🚀 Let your customers vape with ease! Happy coding! 😎
 
 ---
-
-Если тебе нужно что-то добавить или изменить, сообщи!
