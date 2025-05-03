@@ -1,5 +1,4 @@
 import asyncio
-import logging
 import os
 
 from aiogram import Bot, Dispatcher
@@ -17,8 +16,6 @@ TOKEN = os.getenv("BOT_TOKEN")
 
 
 async def main():
-    logging.basicConfig(level=logging.ERROR)
-
     bot = Bot(token=TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 
     dp = Dispatcher(storage=MemoryStorage())
