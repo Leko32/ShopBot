@@ -84,7 +84,7 @@ The bot allows customers to view products and make selections. For admins, speci
 
 ### Example Admin Interaction:
 
-* `/uodate Vape 1000ml 300`
+* `/update Vape 1000ml 300`
 * `/off anarchia`
 * `/on anarchia`
 
